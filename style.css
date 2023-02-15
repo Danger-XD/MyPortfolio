@@ -253,7 +253,10 @@ html{
 }
 .send:hover{
     cursor: pointer;
-    box-shadow: 0 0 15px white;
+    font-weight: bold;
+    background-color: white;
+    color: black;
+    box-shadow: 0 0 15px #14FFEC;
 }
 /* footer */
 .text-dark{
